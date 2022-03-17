@@ -1,0 +1,2 @@
+(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[736],{65022:function(n,u,t){"use strict";t.r(u),t.d(u,{default:function(){return _}});var r=t(67294),e=t(76153);function _(){return r.createElement(e.Z,null)}},23035:function(n,u,t){(window.__NEXT_P=window.__NEXT_P||[]).push(["/groups",function(){return t(65022)}])}},function(n){n.O(0,[955,402,17,153,888,774,179],(function(){return u=23035,n(n.s=u);var u}));var u=n.O();_N_E=u}]);
+//# sourceMappingURL=groups-76d49bb310371737.js.map

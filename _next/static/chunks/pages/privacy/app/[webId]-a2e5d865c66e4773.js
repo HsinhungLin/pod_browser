@@ -1,0 +1,2 @@
+(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[142],{97355:function(n,t,e){"use strict";e.r(t),e.d(t,{default:function(){return i}});var u=e(80480),r=e(67294),c=e(44536);function i(){return r.createElement(c.ZP,{type:u.fK.SoftwareApplication})}},14377:function(n,t,e){(window.__NEXT_P=window.__NEXT_P||[]).push(["/privacy/app/[webId]",function(){return e(97355)}])}},function(n){n.O(0,[224,706,741,507,273,385,566,786,287,201,888,774,179],(function(){return t=14377,n(n.s=t);var t}));var t=n.O();_N_E=t}]);
+//# sourceMappingURL=[webId]-a2e5d865c66e4773.js.map

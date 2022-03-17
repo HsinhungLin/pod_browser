@@ -1,0 +1,2 @@
+(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[653],{92241:function(n,e,r){"use strict";r.r(e),r.d(e,{default:function(){return _}});var t=r(67294),u=r(80480),c=r(44536);function _(){return t.createElement(c.ZP,{type:u.fK.Person})}},9674:function(n,e,r){(window.__NEXT_P=window.__NEXT_P||[]).push(["/privacy/person/[webId]",function(){return r(92241)}])}},function(n){n.O(0,[224,706,741,507,273,385,566,786,287,201,888,774,179],(function(){return e=9674,n(n.s=e);var e}));var e=n.O();_N_E=e}]);
+//# sourceMappingURL=[webId]-ebab2070f8b837ac.js.map

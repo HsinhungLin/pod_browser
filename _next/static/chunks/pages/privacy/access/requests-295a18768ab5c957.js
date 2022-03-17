@@ -1,0 +1,2 @@
+(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[1],{54330:function(n,u,e){"use strict";e.r(u),e.d(u,{default:function(){return c}});var t=e(67294),r=e(83596);function c(){return t.createElement(r.Z,null)}},24021:function(n,u,e){(window.__NEXT_P=window.__NEXT_P||[]).push(["/privacy/access/requests",function(){return e(54330)}])}},function(n){n.O(0,[224,706,823,741,954,868,894,720,385,596,888,774,179],(function(){return u=24021,n(n.s=u);var u}));var u=n.O();_N_E=u}]);
+//# sourceMappingURL=requests-295a18768ab5c957.js.map
